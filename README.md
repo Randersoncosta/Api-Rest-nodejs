@@ -9,7 +9,7 @@
 
 ![image](https://github.com/Randersoncosta/Api-Rest-nodejs/assets/65688236/70e1413c-b346-4aca-b4e0-ff97c30016d9)
 ### login
-Quando é feito o login e gerado um token usando o jsonwebtoken
+Quando é feito o login e gerado um token usando o jsonwebtoken e os paramentros estão sendo validados usando Joi
 ![image](https://github.com/Randersoncosta/Api-Rest-nodejs/assets/65688236/fe417797-eae2-4390-9a26-80e115cfd3a4)
 ### Editar Usuario
 ![image](https://github.com/Randersoncosta/Api-Rest-nodejs/assets/65688236/e0fc8b85-b491-4abe-9ffb-1fafc951ac97)
